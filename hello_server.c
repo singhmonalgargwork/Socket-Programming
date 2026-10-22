@@ -1,3 +1,4 @@
+// We are naming this file hello_server.c , but it's actual role is the server
 #include <stdio.h>
 #include <string.h>
 #include <winsock2.h>
